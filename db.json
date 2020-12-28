@@ -2,30 +2,30 @@
   "videos": [
     {
       "id": 5,
-      "title": "Todo Dia Podcast 2",
-      "url": "https://www.youtube.com/watch?v=SpjIrgM30X0&t=19s",
+      "title": "Língua francesa",
+      "url": "https://www.youtube.com/watch?v=e9B31E6OgqY",
       "rating": "4",
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1507033311/city-night-light_anglxg.jpg",
-      "description": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec sed odio dui.",
-      "category": "Aventura",
+      "thumbnail": "https://ecolesaintpaul.com.br/wp-content/uploads/2018/11/ecole-10-curiosidades-idioma-frances.jpg",
+      "description": "O Frances é originário do latim assim como outros idiomas como como o italiano, o português, o espanhol, o romeno e o catalão. O francês descende, principalmente, do latim vulgar que evoluiu dos dialetos galo-românicos falados no norte da França.",
+      "category": "Tutorial",
       "date": "2020-11-30T22:28:02.497Z"
     },
     {
       "id": 6,
-      "title": "Um dia na vida de um morador de rua",
-      "url": "https://www.youtube.com/watch?v=SpjIrgM30X0&t=19s",
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1507033311/city-walls-city-street-bar-street_tuavmo.jpg",
+      "title": "O que é MGTOW",
+      "url": "https://www.youtube.com/watch?v=Q-7oACjIFw0",
+      "thumbnail": "https://mulherescontraofeminismo.files.wordpress.com/2017/07/mgtow_001.jpg?w=584",
       "category": "Documentário",
-      "rating": 4.2,
+      "rating": "4.2",
       "date": "2020-01-31T15:41:10.179Z",
       "description": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec sed odio dui."
     },
     {
       "id": 7,
       "title": "Profiteroles",
-      "url": "https://www.youtube.com/watch?v=OYYJuvOIN6s",
+      "url": "https://www.youtube.com/watch?v=cZdS0Tvfb_4",
       "rating": "1",
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1505358955/screenshot_ei4tdj.jpg",
+      "thumbnail": "https://www.joyofbaking.com/images/facebook/profiteroles.jpg",
       "description": "Profiterole é uma sobremesa feita com uma massa açucarada(conhecida como choux) recheada com cremes, sorvetes e caldas de acordo com a preferência do consumidor. O doce é bastante popular na França, país no qual foi considerado uma iguaria real em meados do século XVI. Atendendo a um pedido de Catarina de Médici, soberana da França na época, um chef italiano criou a receita. A receita se tornou muito popular no México com o tempo. ",
       "category": "Documentário",
       "date": "2020-11-24T13:23:23.797Z"
@@ -33,19 +33,27 @@
     {
       "id": 8,
       "title": "O poder do não",
-      "url": "https://www.youtube.com/watch?v=SpjIrgM30X0&t=19s",
-      "rating": 4.1,
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1505358936/brand-1851576_1920_ufyge0.jpg",
+      "url": "https://www.youtube.com/watch?v=oOCkdKA1ZwU",
+      "rating": "4.1",
+      "thumbnail": "https://anoregam.org.br/wp-content/uploads/2017/09/urgente-votem-nao-ao-projeto-de-lei-pl-177515-registro-civil.jpg",
       "description": "Vídeo Editado do Poder do não",
       "category": "Tutorial",
       "date": "2020-11-24T13:03:32.505Z"
     },
     {
-      "title": "The mask and the mirror",
-      "url": "https://www.youtube.com/watch?v=U0cHlEap8uw&list=RDmA1qPGUP4c0&index=3",
-      "rating": "5.6",
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1505358939/adult-1836485_1920_h6otpn.jpg",
-      "description": "Loreena McKennett",
+      "title": "React",
+      "url": "https://www.youtube.com/watch?v=b7nrXjS6Dqs&t=1581s",
+      "rating": "2",
+      "thumbnail": "https://programadoresbrasil.com.br/wp-content/uploads/2020/07/reactjs-logo-1-scaled.jpg",
+      "description": "This build will have the following:
+                      👉 REDUX
+                      👉 REACT ROUTER
+                      👉 FIREBASE FIRESTORE (realtime database)
+                      👉 FIREBASE AUTHENTICATION (Login)
+                      👉 FIREBASE HOSTING (How to deploy)
+                      👉 REACT HOOKS FORMS
+                      👉MATERIAL UI (Design)
+                      + MORE!",
       "category": "Live",
       "date": "2020-11-24T14:37:03.234Z",
       "id": 9
@@ -54,39 +62,51 @@
       "title": "Controlando a libido",
       "url": "https://www.youtube.com/watch?v=u2BtzkIPF6A",
       "rating": "3",
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1505358994/adult-1986108_1920_z5zkg9.jpg",
+      "thumbnail": "https://pbs.twimg.com/profile_images/712111787760558080/lt6a3ENN_400x400.jpg",
       "description": "Por que mulher bonita e/ou gostosa te deixa tão abobado, abestado? Por que é tão difícil tomar a decisão mais lógica quando você está na presença de uma mulher atraente, especialmente se ela estiver com roupa justa ou decotada? Pra responder essas questões, vamos dar uma olhada em como funciona o cérebro masculino... o  TEU cérebro.\n\nNos meus vídeos, eu converso com você sobre temas do mundo masculino red pill e também sobre geopolítica, engenharia social, e meditação ativa. Não esqueça de se inscrever e clique no sininho pra receber notificações avisando o upload de vídeos novos. ",
       "category": "Vlog",
       "date": "2020-11-28T23:24:09.610Z",
       "id": 10
     },
+
+    
     {
-      "title": "Let's Build a Robinhood Clone with REACT JS for Beginners!",
-      "url": "https://youtu.be/TxggrQ0nHjY",
-      "rating": "3.9",
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1505358993/jeff-sheldon-3228_qnauxy.jpg",
-      "description": "In todays video Naz and Jessy, one of our PWJ students, will be teaching you how to build an EPIC looking Robinhood Clone using ReactJS.",
-      "category": "Tecnologia",
-      "date": "2020-11-29T21:14:11.698Z",
-      "id": 11
-    },
-    {
-      "title": "estudar Gramática",
-      "url": "https://www.youtube.com/watch?v=KIRyyxIFdT8",
+      "title": "O NOVO RYZEN 7 4700G VAI ACABAR COM PLACAS DE VÍDEO DESSE JEITO! APU PODEROSA VEM AÍ!",
+      "url": "https://www.youtube.com/watch?v=om73ehAqtdA",
       "rating": "4",
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1505358993/jeff-sheldon-3228_qnauxy.jpg",
-      "description": "sadasdasdajshdjasjhdajsjhdhjasj",
+      "thumbnail": "https://images5.kabum.com.br/produtos/fotos/114265/processador-amd-ryzen-7-3800xt-cache-36mb-4700mhz-am4-100-100000279wof_1594061933_g.jpg",
+      "description": "A AMD anunciou terça feira dia 21 de Julho uma grande variedade de processadores Ryzen da série 4000G. Uma lista que é composta por 12 processadores como os próprios Ryzen com placa de vídeo integradas (APU). Para computadores que priorizam o fator custo em vez do desempenho, a AMD anunciou seis processadores para a série Athlon 3000, contando inicialmente com 4 núcleos e 4 threads.
+      Nessa lista também iremos conferir o mais poderoso deles que é o Ryzen 7 4700G, onde essa APU conta com 8 núcleos físicos e 16 threads, com a GPU Vega 8 em 2100Mhz de clock. Será que esse processador roda jogos sozinho? Vamos conversar sobre isso nesse vídeo e muito mais!",
       "category": "Tutorial",
       "date": "2020-11-30T22:26:32.922Z",
       "id": 12
     },
     {
-      "title": "estudar Gramática",
-      "url": "https://www.youtube.com/watch?v=u2BtzkIPF6A",
-      "rating": 1,
-      "thumbnail": "https://res.cloudinary.com/pilatusbr/image/upload/v1505358993/jeff-sheldon-3228_qnauxy.jpg",
-      "description": "saddassdadsdasdsddsddddddds",
-      "category": "Aventura",
+      "title": "Men I Trust - Lauren",
+      "url": "https://www.youtube.com/watch?v=TNsSBhl_2LI",
+      "rating": "3.2",
+      "thumbnail": "https://monkeybuzz.com.br/wp-content/uploads/2019/06/men-i-trust.jpg",
+      "description": "There’s a voice I always trust
+                      Its friendly helping hand tells me leave, I must
+                      Cause I can’t stay forever
+                      Cause I can’t stay forever
+                      Cause I can’t stay forever
+                      Cause I can’t stay forever
+                      By my window
+
+                      Rather chase a gentle breeze
+                      Set my thoughts by taller trees
+                      Cause I can’t stay forever
+                      Cause I can’t stay forever
+                      Cause I can’t stay forever
+                      Cause I can’t stay forever
+                      By my window
+
+                      I need whispers that make me move
+                      Riding the country for driving’s sake
+                      Sync me within the outside world
+                      So I can better miss my home",
+      "category": "Vlog",
       "date": "2020-11-30T22:28:18.329Z",
       "id": 13
     }
