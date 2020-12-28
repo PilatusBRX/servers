@@ -8,8 +8,9 @@
       "thumbnail": "https://ecolesaintpaul.com.br/wp-content/uploads/2018/11/ecole-10-curiosidades-idioma-frances.jpg",
       "description": "O Frances é originário do latim assim como outros idiomas como como o italiano, o português, o espanhol, o romeno e o catalão. O francês descende, principalmente, do latim vulgar que evoluiu dos dialetos galo-românicos falados no norte da França.",
       "category": "Tutorial",
-      "date": "2020-11-30T22:28:02.497Z"
+      "date": "2020-12-27T22:28:02.497Z"
     },
+
     {
       "id": 6,
       "title": "O que é MGTOW",
@@ -21,96 +22,73 @@
       "description": "Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec sed odio dui."
     },
     {
-      "id": 7,
-      "title": "Profiteroles",
-      "url": "https://www.youtube.com/watch?v=cZdS0Tvfb_4",
-      "rating": "1",
-      "thumbnail": "https://www.joyofbaking.com/images/facebook/profiteroles.jpg",
-      "description": "Profiterole é uma sobremesa feita com uma massa açucarada(conhecida como choux) recheada com cremes, sorvetes e caldas de acordo com a preferência do consumidor. O doce é bastante popular na França, país no qual foi considerado uma iguaria real em meados do século XVI. Atendendo a um pedido de Catarina de Médici, soberana da França na época, um chef italiano criou a receita. A receita se tornou muito popular no México com o tempo. ",
-      "category": "Documentário",
-      "date": "2020-11-24T13:23:23.797Z"
-    },
-    {
-      "id": 8,
-      "title": "O poder do não",
-      "url": "https://www.youtube.com/watch?v=oOCkdKA1ZwU",
-      "rating": "4.1",
-      "thumbnail": "https://anoregam.org.br/wp-content/uploads/2017/09/urgente-votem-nao-ao-projeto-de-lei-pl-177515-registro-civil.jpg",
-      "description": "Vídeo Editado do Poder do não",
-      "category": "Tutorial",
-      "date": "2020-11-24T13:03:32.505Z"
-    },
-    {
-      "title": "React",
-      "url": "https://www.youtube.com/watch?v=b7nrXjS6Dqs&t=1581s",
-      "rating": "2",
-      "thumbnail": "https://programadoresbrasil.com.br/wp-content/uploads/2020/07/reactjs-logo-1-scaled.jpg",
-      "description": "This build will have the following:
-                       REDUX
-                       REACT ROUTER
-                       FIREBASE FIRESTORE (realtime database)
-                       FIREBASE AUTHENTICATION (Login)
-                       FIREBASE HOSTING (How to deploy)
-                       REACT HOOKS FORMS
-                       MATERIAL UI (Design)
-                       MORE!",
-      "category": "Live",
-      "date": "2020-11-24T14:37:03.234Z",
-      "id": 9
-    },
+       "id": 7,
+       "title": "Profiteroles",
+       "url": "https://www.youtube.com/watch?v=cZdS0Tvfb_4",
+       "rating": "1",
+       "thumbnail": "https://www.joyofbaking.com/images/facebook/profiteroles.jpg",
+       "description": "Profiterole é uma sobremesa feita com uma massa açucarada(conhecida como choux) recheada com cremes, sorvetes e caldas de acordo com a preferência do consumidor. O doce é bastante popular na França, país no qual foi considerado uma iguaria real em meados do século XVI. Atendendo a um pedido de Catarina de Médici, soberana da França na época, um chef italiano criou a receita. A receita se tornou muito popular no México com o tempo. ",
+       "category": "Documentário",
+       "date": "2020-11-24T13:23:23.797Z"
+     },
+     {
+       "id": 8,
+       "title": "O poder do não",
+       "url": "https://www.youtube.com/watch?v=oOCkdKA1ZwU",
+       "rating": "4.1",
+       "thumbnail": "https://anoregam.org.br/wp-content/uploads/2017/09/urgente-votem-nao-ao-projeto-de-lei-pl-177515-registro-civil.jpg",
+       "description": "Vídeo Editado do Poder do não",
+       "category": "Tutorial",
+       "date": "2020-11-24T13:03:32.505Z"
+     },
+
+     {
+       "title": "React",
+       "url": "https://www.youtube.com/watch?v=b7nrXjS6Dqs&t=1581s",
+       "rating": "2",
+       "thumbnail": "https://programadoresbrasil.com.br/wp-content/uploads/2020/07/reactjs-logo-1-scaled.jpg",
+       "description": "This build will have the following: REDUX,           REACT ROUTER, FIREBASE FIRESTORE (realtime database),                FIREBASE AUTHENTICATION (Login), FIREBASE HOSTING (How to deploy),    REACT HOOKS FORMS, MATERIAL UI (Design) and + MORE!",
+       "category": "Live",
+       "date": "2020-12-24T14:37:03.234Z",
+       "id": 9
+     },
     {
       "title": "Controlando a libido",
-      "url": "https://www.youtube.com/watch?v=u2BtzkIPF6A",
+    "url": "https://www.youtube.com/watch?v=u2BtzkIPF6A",
       "rating": "3",
-      "thumbnail": "https://pbs.twimg.com/profile_images/712111787760558080/lt6a3ENN_400x400.jpg",
+     "thumbnail": "https://pbs.twimg.com/profile_images/712111787760558080/lt6a3ENN_400x400.jpg",
       "description": "Por que mulher bonita e/ou gostosa te deixa tão abobado, abestado? Por que é tão difícil tomar a decisão mais lógica quando você está na presença de uma mulher atraente, especialmente se ela estiver com roupa justa ou decotada? Pra responder essas questões, vamos dar uma olhada em como funciona o cérebro masculino... o  TEU cérebro.\n\nNos meus vídeos, eu converso com você sobre temas do mundo masculino red pill e também sobre geopolítica, engenharia social, e meditação ativa. Não esqueça de se inscrever e clique no sininho pra receber notificações avisando o upload de vídeos novos. ",
       "category": "Vlog",
-      "date": "2020-11-28T23:24:09.610Z",
+      "date": "2019-11-28T23:24:09.610Z",
       "id": 10
     },
 
-    
+
     {
       "title": "O NOVO RYZEN 7 4700G VAI ACABAR COM PLACAS DE VÍDEO DESSE JEITO! APU PODEROSA VEM AÍ!",
       "url": "https://www.youtube.com/watch?v=om73ehAqtdA",
       "rating": "4",
       "thumbnail": "https://images5.kabum.com.br/produtos/fotos/114265/processador-amd-ryzen-7-3800xt-cache-36mb-4700mhz-am4-100-100000279wof_1594061933_g.jpg",
-      "description": "A AMD anunciou terça feira dia 21 de Julho uma grande variedade de processadores Ryzen da série 4000G. Uma lista que é composta por 12 processadores como os próprios Ryzen com placa de vídeo integradas (APU). Para computadores que priorizam o fator custo em vez do desempenho, a AMD anunciou seis processadores para a série Athlon 3000, contando inicialmente com 4 núcleos e 4 threads.
-      Nessa lista também iremos conferir o mais poderoso deles que é o Ryzen 7 4700G, onde essa APU conta com 8 núcleos físicos e 16 threads, com a GPU Vega 8 em 2100Mhz de clock. Será que esse processador roda jogos sozinho? Vamos conversar sobre isso nesse vídeo e muito mais!",
+      "description": "A AMD anunciou terça feira dia 21 de Julho uma grande variedade de processadores Ryzen da série 4000G. Uma lista que é composta por 12 processadores como os próprios Ryzen com placa de vídeo integradas (APU). Para computadores que priorizam o fator custo em vez do desempenho, a AMD anunciou seis processadores para a série Athlon 3000, contando inicialmente com 4 núcleos e 4 threads.",
       "category": "Tutorial",
       "date": "2020-11-30T22:26:32.922Z",
       "id": 12
     },
+
+
     {
-      "title": "Men I Trust - Lauren",
-      "url": "https://www.youtube.com/watch?v=TNsSBhl_2LI",
-      "rating": "3.2",
-      "thumbnail": "https://monkeybuzz.com.br/wp-content/uploads/2019/06/men-i-trust.jpg",
-      "description": "There’s a voice I always trust
-                      Its friendly helping hand tells me leave, I must
-                      Cause I can’t stay forever
-                      Cause I can’t stay forever
-                      Cause I can’t stay forever
-                      Cause I can’t stay forever
-                      By my window
-
-                      Rather chase a gentle breeze
-                      Set my thoughts by taller trees
-                      Cause I can’t stay forever
-                      Cause I can’t stay forever
-                      Cause I can’t stay forever
-                      Cause I can’t stay forever
-                      By my window
-
-                      I need whispers that make me move
-                      Riding the country for driving’s sake
-                      Sync me within the outside world
-                      So I can better miss my home",
-      "category": "Vlog",
-      "date": "2020-11-30T22:28:18.329Z",
-      "id": 13
-    }
+  "title": "Men I Trust - Lauren",
+  "url": "https://www.youtube.com/watch?v=TNsSBhl_2LI",
+  "rating": "3.2",
+  "thumbnail": "https://monkeybuzz.com.br/wp-content/uploads/2019/06/men-i-trust.jpg",
+  "description": "There’s a voice I always trust Its friendly helping hand tells me leave, I must Cause I can’t stay forever  Cause I can’t stay forever  Cause I can’t stay forever Cause I can’t stay forever",
+  "category": "Vlog",
+  "date": "2020-11-30T22:28:18.329Z",
+  "id": 13
+}
   ],
+
+
   "categories": [
     {
       "id": 1,
