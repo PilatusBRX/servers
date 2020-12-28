@@ -7,7 +7,7 @@
       "rating": "4",
       "thumbnail": "https://ecolesaintpaul.com.br/wp-content/uploads/2018/11/ecole-10-curiosidades-idioma-frances.jpg",
       "description": "O Frances é originário do latim assim como outros idiomas como como o italiano, o português, o espanhol, o romeno e o catalão. O francês descende, principalmente, do latim vulgar que evoluiu dos dialetos galo-românicos falados no norte da França.",
-      "category": "Tutorial",
+      "category": "Educação",
       "date": "2020-12-27T22:28:02.497Z"
     },
 
@@ -28,7 +28,7 @@
        "rating": "1",
        "thumbnail": "https://www.joyofbaking.com/images/facebook/profiteroles.jpg",
        "description": "Profiterole é uma sobremesa feita com uma massa açucarada(conhecida como choux) recheada com cremes, sorvetes e caldas de acordo com a preferência do consumidor. O doce é bastante popular na França, país no qual foi considerado uma iguaria real em meados do século XVI. Atendendo a um pedido de Catarina de Médici, soberana da França na época, um chef italiano criou a receita. A receita se tornou muito popular no México com o tempo. ",
-       "category": "Documentário",
+       "category": "Tutorial",
        "date": "2020-11-24T13:23:23.797Z"
      },
      {
@@ -38,7 +38,7 @@
        "rating": "4.1",
        "thumbnail": "https://anoregam.org.br/wp-content/uploads/2017/09/urgente-votem-nao-ao-projeto-de-lei-pl-177515-registro-civil.jpg",
        "description": "Vídeo Editado do Poder do não",
-       "category": "Tutorial",
+       "category": "Documentário",
        "date": "2020-11-24T13:03:32.505Z"
      },
 
@@ -82,7 +82,7 @@
   "rating": "3.2",
   "thumbnail": "https://monkeybuzz.com.br/wp-content/uploads/2019/06/men-i-trust.jpg",
   "description": "There’s a voice I always trust Its friendly helping hand tells me leave, I must Cause I can’t stay forever  Cause I can’t stay forever  Cause I can’t stay forever Cause I can’t stay forever",
-  "category": "Vlog",
+  "category": "Música",
   "date": "2020-11-30T22:28:18.329Z",
   "id": 13
 }
@@ -92,7 +92,7 @@
   "categories": [
     {
       "id": 1,
-      "name": "Comédia"
+      "name": "Educação"
     },
     {
       "id": 2,
@@ -111,7 +111,7 @@
       "id": 5
     },
     {
-      "name": "Filmes",
+      "name": "Música",
       "id": 6
     },
     {
